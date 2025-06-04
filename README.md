@@ -1,3 +1,4 @@
+➤ Demo Videosu : [`Hamming Code`](https://youtu.be/fE0Woly4OPU?si=lQpNdQbN17gmEiNz)
 
 ## 🎯 Proje Hakkında
 
@@ -134,6 +135,10 @@ Tip:       P  P1 P2 D1 P4 D2 D3 D4 P8 D5 D6 D7 D8
 Dosyayı herhangi bir web sunucusunda hosting edebilir veya GitHub Pages kullanabilirsiniz.
 
 ## 📸 Ekran Görüntüleri
+<img src="https://github.com/ncrim7/Hamming_Code/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-04%20024543.png" width="600px" height="auto">
+<img src="https://github.com/ncrim7/Hamming_Code/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-04%20024600.png" width="600px" height="auto">
+<img src="https://github.com/ncrim7/Hamming_Code/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-04%20024611.png" width="600px" height="auto">
+<img src="https://github.com/ncrim7/Hamming_Code/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-04%20024659.png" width="600px" height="auto">
 
 ### Ana Ekran
 - Modern ve kullanıcı dostu arayüz
